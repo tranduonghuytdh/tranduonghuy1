@@ -1,0 +1,6 @@
+127.0.0.1 - - [21/Mar/2021:15:53:17 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:15:53:20 +0700] "GET /jsptintuc/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:15:53:20 +0700] "GET /jsptintuc/admin-home HTTP/1.1" 200 7619
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:15:53:20 +0700] "GET /favicon.ico HTTP/1.1" 404 1005
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:15:53:36 +0700] "GET /jsptintuc/admin-new?page=1&maxPageItem=2&sortName=title&sortBy=desc HTTP/1.1" 200 10001
+0:0:0:0:0:0:0:1 - - [21/Mar/2021:15:53:38 +0700] "GET /jsptintuc/admin-new?page=2&maxPageItem=2&sortName=title&sortBy=desc HTTP/1.1" 200 10001

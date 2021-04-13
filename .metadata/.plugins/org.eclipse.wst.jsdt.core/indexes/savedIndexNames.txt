@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+E:\tintuc\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+20937195.index
+3566507672.index
+3307317885.index
+3035218607.index
+1771207406.index

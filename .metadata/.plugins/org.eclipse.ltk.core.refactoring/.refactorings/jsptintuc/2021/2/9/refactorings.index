@@ -1,0 +1,22 @@
+1614150485760	Delete element
+1614150656348	Copy compilation unit
+1614150765023	Copy file
+1614156333907	Copy files
+1614158940179	Rename package 'com.jsptintuc.Dao'
+1614159876678	Delete element
+1614164546599	Delete elements
+1614221816548	Delete elements
+1614222163064	Delete element
+1614231751996	Rename compilation unit 'HttpUtils.java'
+1614231890101	Delete element
+1614234932453	Encapsulate field 'ids'
+1614247712746	Encapsulate field 'totalItem'
+1614248516801	Encapsulate field 'listResult'
+1614248606800	Rename package 'com.jsptintuc.SystemContact'
+1614248636563	Rename package 'SystemConstant'
+1614249187018	Delete element
+1614249453491	Encapsulate field 'listResult'
+1614314329895	Encapsulate field 'page'
+1614314342493	Encapsulate field 'maxPageItem'
+1614314418229	Encapsulate field 'totalPage'
+1614315520533	Encapsulate field 'totalItem'

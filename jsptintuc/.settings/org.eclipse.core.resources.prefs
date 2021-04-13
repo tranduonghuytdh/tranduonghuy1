@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/jsptintuc/controller/admin/HomeController.java=UTF-8
+encoding//src/main/java/com/jsptintuc/controller/admin/NewController.java=UTF-8
+encoding//src/main/java/com/jsptintuc/controller/admin/api/NewAPI.java=UTF-8
+encoding//src/main/java/com/jsptintuc/controller/web/HomeController.java=UTF-8
+encoding//src/main/java/com/jsptintuc/dao/INewDao.java=UTF-8
+encoding//src/main/java/com/jsptintuc/dao/impl/NewDao.java=UTF-8
+encoding//src/main/java/com/jsptintuc/model/AbstractModel.java=UTF-8
+encoding//src/main/java/com/jsptintuc/service/INewService.java=UTF-8
+encoding//src/main/java/com/jsptintuc/service/impl/NewService.java=UTF-8
+encoding//src/main/java/com/jsptintuc/utils/HttpUtil.java=UTF-8
+encoding//src/main/webapp/common/admin/header.jsp=UTF-8
+encoding//src/main/webapp/common/admin/menu.jsp=UTF-8
+encoding//src/main/webapp/common/web/header.jsp=UTF-8
